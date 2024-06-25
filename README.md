@@ -1,11 +1,8 @@
 # AI Powered Clothing Design Generator
-[![Open In Colab](https://colab.research.google.com/drive/1sfB5yXwfMFLtQZGqWBK6QrG2hfcr6xeR?usp=sharing)]
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mfrashad/ClothingGAN)
 
 
-![teaser](clothing-gan-thumbnail.gif)
+![Screenshot 2024-06-25 110333](https://github.com/anvita-kumar30/ClothingDesignGenerator/assets/109106936/6e64be6c-51d3-4be3-ad8b-327b7729b117)
 
-[Devpost Link](https://devpost.com/software/clothinggan) | [Youtube Video](https://www.youtube.com/watch?v=dHuunRnMnMo)
 
 
 ## What it does
